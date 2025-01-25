@@ -16,4 +16,4 @@ drug absorption. The project performs EDA to clean the data and then calculates 
 Then ML models are build for predicting the IC50 values of each chemical compound in the dataset. The IC50 is the concentration of a drug or compound required to inhibit a biological process by 50%. 
 
 
-I would iike to thank Prof. Chanin Nantasenamat for his tutorials on this ML and drug discovery for helping me understand the basic concepts that enabled me to do this project.
+I would iike to thank Prof. Chanin Nantasenamat for his tutorials on ML and drug discovery for helping me understand the basic concepts that enabled me to do this project.
