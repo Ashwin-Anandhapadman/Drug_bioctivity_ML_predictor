@@ -15,8 +15,9 @@ The rule serves as a practical framework for evaluating the physicochemical prop
 drug absorption. The project performs EDA to clean the data and then calculates molecular descriptors (using RDKit) to quantify the Lipinski factos.
 Then ML models are build for predicting the IC50 values of each chemical compound in the dataset. The IC50 is the concentration of a drug or compound required to inhibit a biological process by 50%. 
 
-## ML models:
-The project demonstrates drug likeliness prediction using four ML models: Random forests, SVM, Linear regression and Extratrees regressor. These are some of the most popular and widely used regression models and various key predicton metrics like R2 and MSE were computed to evaluate their performance.
+ ## ML models:
+ The project demonstrates drug likeliness prediction using four ML models: Random forests, SVM, Linear regression and Extratrees regressor. These are some of the most popular and widely used regression models and 
+ various key predicton metrics like R2 and MSE were computed to evaluate their performance.
 
 
 I would iike to thank Prof. Chanin Nantasenamat for his tutorials on ML and drug discovery for helping me understand the basic concepts that enabled me to do this project.
