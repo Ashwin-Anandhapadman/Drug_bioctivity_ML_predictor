@@ -1,4 +1,4 @@
-# Drug discovery using machine learning 
+# Machine learning project on Structure-Activity Relationship (SAR) modelling for drug discovery
 
 This project combines the concepts of basic bioinformatics and machine learning to enable prospective drug acitivty prediction of any chemical compound. While bioactivity measures like IC50 determine the potency of the drug to bind and act on its target, drug likeliness factors form a basic set of requirements to be satisfied by any compound before it can be tested for bioactivity. The drug likeliness of chemical compounds is given by Lipinski's rule of five.
 
