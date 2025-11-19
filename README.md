@@ -19,4 +19,4 @@ Post the basic data analysis, the SMILES data are used for derving the PaDEL des
  The project demonstrates drug likeliness prediction using four ML models: Random forests, SVM, Linear regression and XGBoost. These are some of the most popular and widely used regression models and  various key prediction metrics like R2 and MSE were computed to evaluate their performance.
 
 ## Bibliography:
-I would like to thank Prof. Chanin Nantasenamat for his tutorials on ML and drug discovery for helping me understand the basic concepts that enabled me to do this project.
+I would like to thank Prof. Chanin and DDH (2020)-India for their tutorials on ML and drug discovery for helping me understand the basic concepts that enabled me to do this project.
